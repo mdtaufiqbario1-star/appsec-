@@ -1,0 +1,6 @@
+{
+  "name": "RedPage Directory - Android Yellow Pages",
+  "description": "Black & Red contact directory and emergency blood finder with direct WhatsApp messaging, one-tap calling, and skill search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <radialGradient id="bg512" cx="50%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#3b080e"/>
+      <stop offset="100%" stop-color="#090a0f"/>
+    </radialGradient>
+    <linearGradient id="redGrad512" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f87171"/>
+      <stop offset="50%" stop-color="#dc2626"/>
+      <stop offset="100%" stop-color="#991b1b"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#bg512)"/>
+  <rect x="6" y="6" width="500" height="500" rx="106" fill="none" stroke="#ef4444" stroke-width="6" stroke-opacity="0.35"/>
+  <rect x="120" y="96" width="272" height="320" rx="36" fill="#141722" stroke="#450a0a" stroke-width="8"/>
+  <rect x="120" y="96" width="48" height="320" rx="20" fill="url(#redGrad512)"/>
+  <circle cx="264" cy="190" r="44" fill="url(#redGrad512)"/>
+  <path d="M210 296 C210 252 318 252 318 296 Z" fill="url(#redGrad512)" fill-opacity="0.9"/>
+  <line x1="196" y1="334" x2="332" y2="334" stroke="#ef4444" stroke-width="8" stroke-linecap="round"/>
+  <line x1="216" y1="364" x2="312" y2="364" stroke="#dc2626" stroke-width="6" stroke-linecap="round" stroke-opacity="0.7"/>
+</svg>
